@@ -1,7 +1,7 @@
 {
   "name": "node-api-stream-demo",
   "version": "1.0.0",
-  "description": "Setup NodeJS API server with Express Router and Stream Files.",
+  "description": "Setup NodeJS server with Express and Stream Files.",
   "author": {
     "name": "Charmaine Chui",
     "url": "https://geek-cc.medium.com/"
