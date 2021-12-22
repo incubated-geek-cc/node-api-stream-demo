@@ -1,0 +1,21 @@
+{
+  "name": "node-api-stream-demo",
+  "version": "1.0.0",
+  "description": "Setup NodeJS API server with Express Router and Stream Files.",
+  "author": {
+    "name": "Charmaine Chui",
+    "url": "https://geek-cc.medium.com/"
+  },
+  "keywords": [
+    "express",
+    "stream",
+    "fs"
+  ],
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
